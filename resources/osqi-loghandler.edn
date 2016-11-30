@@ -1,0 +1,5 @@
+{:kafka.zk.connect "localhost:2181/kafka"
+ :broker.list "localhost:9092"
+ :topic.name "agentlog"
+ :port 8082
+ }
